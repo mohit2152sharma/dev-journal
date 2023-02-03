@@ -1,0 +1,1 @@
+1. In [[pandas]] `tolist()` is used to convert a numpy array into [[python]] 's  scalar list. There is also `to_list()` which is just an alias to `tolist()`. It was added to maintain consistency with other similarly named functions.
