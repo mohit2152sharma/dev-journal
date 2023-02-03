@@ -1,0 +1,1 @@
+Tips, tricks and notes on programming, back up of obsidian notes
