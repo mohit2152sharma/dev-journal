@@ -167,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1214e8acef605291",
+  "active": "d8a086e093509f00",
   "lastOpenFiles": [
+    "python/pandas.md",
     "python/virtual env.md",
     "python/pip.md",
-    "python/pandas.md",
     "README.md",
     "bash/bash.md",
     "bitbucket.md"
