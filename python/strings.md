@@ -1,0 +1,2 @@
+1. In [[python]], [[f-strings]] are used to format strings. [[f-strings]] must have even number of braces (if braces are used for expression). To make a brace appear in literal [[strings]] use double braces. for example: `f'{{x'` will print `{x` but `f'{x'` will throw a syntax error
+2. 

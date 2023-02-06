@@ -1,0 +1,1 @@
+[[winsorized]] [[mean]] : in winsorized mean, you replace the values falling outside the lower bound and upper bound with lower and upper bound and then calculate the mean. This is done to limit the effect of outliers.
