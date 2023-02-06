@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdebf0a8144295b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/dash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/pip.md",
+                "file": "python/dash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/pip.md",
+                "file": "python/dash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/pip.md"
+                "file": "python/dash.md"
               }
             }
           },
@@ -167,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1214e8acef605291",
+  "active": "cdebf0a8144295b4",
   "lastOpenFiles": [
-    "python/virtual env.md",
     "python/pip.md",
+    "python/virtual env.md",
     "python/pandas.md",
     "README.md",
     "bash/bash.md",
