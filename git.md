@@ -3,4 +3,5 @@
 	```
 	git reset --hard
 	git clean -f -d # -f: --force, -d: also delete untracked directories, -n: for dry run
-```
+	```
+
