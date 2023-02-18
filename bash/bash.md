@@ -13,3 +13,4 @@
    $ echo "${x[@]}"
    hello world this
    ```
+7. Reuse last argument of previous command: `echo !$` 
