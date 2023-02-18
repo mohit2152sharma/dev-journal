@@ -4,3 +4,5 @@
 2. `-z` is used to test if a string is null (or empty). Returns True if the [[string]] is empty.
 3. to scroll up and scroll down in bash terminal use `shift + page up` and `shift + page down`
 4. Use `ctrl + r` to cycle through commands in history
+5. create an [[array]] in bash of words: `array=("word1" "word2" "word3")`
+6. 
