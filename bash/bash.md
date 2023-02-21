@@ -13,4 +13,5 @@
    $ echo "${x[@]}"
    hello world this
    ```
-7. Reuse last argument of previous command: `echo !$` 
+7. Reuse last argument of previous command: `echo !$`
+8. To list files in a directories and it's subdirectories use `-R` flag with `ls`: `ls -R directory`
